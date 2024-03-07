@@ -1,0 +1,27 @@
+Collaborated with ChatGPT, Stack Overflow, Rishabh Deb (720080204) and Tobias Ignatius (720027223) for the following problems:
+
+Problem 1 (Part F)
+
+Prompted how to split original data frame into two, based of a list of indices
+
+Problem 2 (Part B)
+
+Prompted how to print a list of non repeating values
+
+Problem 3 (Part D)
+
+Prompted how to drop rows that contain a specific string 
+
+Problem 3 (Part G)
+
+Found the time module using stack overflow: https://stackoverflow.com/questions/61826420/how-to-calculate-the-difference-in-days-between-two-dates-in-python-using-the-ti
+
+Problem 3 (Part H)
+
+I would like to thank Rishabh and Toby for helping out with this problem. I started out with a function that calculated the country specific data for all the countries. However, some datapoints were missing from the plot in Part I. Us 3 went through the csv file and found that some countries were not able to record data from the same time therefore, there were some NAN values that needed to be taken into account. From there we worked together to write a function where, the NAN values were dropped using .first_valid_index and .last_valid_index, I then prompted to how to obtain first non null values from a column of a data frame using a function. Using the output from the prompt, I edited it so that it could work with my code the way I needed it to.
+
+Problem 3 (Part L)
+
+Prompted how to insert a text on the top spine of a subplot
+Prompted how to insert a vertical line in a subplot
+Prompted how to insert a legend for 4 subplots in the upper centre of the figure below the figure title
