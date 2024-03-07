@@ -1,3 +1,2 @@
 # University-Projects
-Projects I have undertaken at The University of Exeter.
-This repository mainly serves the purposes of showing my work.
+This repository mainly serves the purposes of displaying the projects I have undertaken at The University of Exeter.
